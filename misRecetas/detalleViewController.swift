@@ -50,9 +50,9 @@ class detalleViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    @IBAction func #imageLiteral(resourceName: "close")(segue: UIStoryboardSegue){
+    /*@IBAction func #imageLiteral(resourceName: "close")(segue: UIStoryboardSegue){
     
-    }
+    }*/
     
 }
 

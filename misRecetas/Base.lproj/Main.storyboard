@@ -161,7 +161,7 @@
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                                 <connections>
-                                    <segue destination="cyi-Te-SZv" kind="presentation" identifier="valorarPlato" id="Ada-fE-Jb2"/>
+                                    <segue destination="cyi-Te-SZv" kind="show" identifier="valorarPlato" id="Ada-fE-Jb2"/>
                                 </connections>
                             </button>
                         </subviews>
